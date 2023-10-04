@@ -38,8 +38,8 @@ p{
     margin: 1.5rem;
 }
 
-span{
-    margin-right: 2rem;
+#maximo{
+    margin-left: 2rem;
 }
 
 .botoes{    /*os botões devem preencher todo o espaço disponível*/
